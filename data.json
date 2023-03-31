@@ -1,0 +1,39 @@
+{
+  "accounts": [
+    {
+      "id": "1001",
+      "accountName": "Yang Truong",
+      "balance": 8000
+    },
+    {
+      "id": "1002",
+      "accountName": "Boba Fett",
+      "balance": 1000
+    },
+    {
+      "id": "1003",
+      "accountName": "Luke Skywalker",
+      "balance": 200
+    },
+    {
+      "id": "1004",
+      "accountName": "Obi Wan Kenobe",
+      "balance": 999
+    },
+    {
+      "id": "1005",
+      "accountName": "Darth Vader",
+      "balance": 666666
+    },
+    {
+      "id": "2000",
+      "accountName": "Harry Potter",
+      "balance": 99999
+    },
+    {
+      "id": "3000",
+      "accountName": "Doctor Jones",
+      "balance": 8888
+    }
+  ]
+}
